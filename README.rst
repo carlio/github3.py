@@ -32,7 +32,7 @@ Please read the `CONTRIBUTING`_ document.
 Testing
 ~~~~~~~
 
-You can run either ``pip install -r requirements.txt`` to install the 
+You can run either ``pip install -r dev-requirements.txt`` to install the 
 following before testing or simply ``make test-deps``. It is suggested you do 
 this in a virtual enviroment. These need to be installed for the tests to run.
 
