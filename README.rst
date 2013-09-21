@@ -61,11 +61,11 @@ See the docs_ for more examples.
 Testing
 ~~~~~~~
 
-Install the dependencies from requirements.txt e.g.:
+Install the dependencies from dev-requirements.txt e.g.:
 
 ::
 
-    pip install -r requirements.txt
+    pip install -r dev-requirements.txt
     # or make test-deps
 
 ::
